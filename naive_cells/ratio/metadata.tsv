@@ -1,0 +1,35 @@
+sample_name	total_templates	total_reads	productive_templates	total_productive_reads	fraction_productive	total_rearrangements	productive_rearrangements	productive_simpson_clonality	max_productive_frequency	locus	sample_tags	sku	test_name
+Healthy_Subject_4_CD4_Naive	na	3329857	na	2861707	0.8594	91914	79742	0.0054	0.001341157617466908	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_3_CD8_Naive	na	228433	na	189830	0.8310	35321	30201	0.0110	0.0056366222	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_8_CD4_Naive	na	3063969	na	2506104	0.8179	90913	75261	0.0096	0.0030489557	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_4_CD8_Naive	na	4409187	na	3824503	0.8674	73434	63541	0.0608	0.039915774	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_3_CD4_Naive	na	5376949	na	4548913	0.8460	100025	85402	0.0051	7.656774281362147E-4	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_2_CD8_Naive	na	10106606	na	8097562	0.8012	90400	71910	0.0516	0.034234006	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_2_CD4_Naive	na	4549781	na	3650149	0.8023	92942	75160	0.0058	0.001127625253093765	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_1_CD8_Naive	na	2558879	na	2222475	0.8685	48143	40421	0.1373	0.136720553	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_1_CD4_Naive	na	1161645	na	980948	0.8444	49409	42101	0.0070	0.00144044335950028	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_8_CD8_Naive	na	9196347	na	7395102	0.8041	45519	35997	0.1097	0.0915171951	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, HLA MHC Class I, Naive T cells, PBMC		
+Healthy_Subject_7_CD8_Naive	na	6228251	na	5144948	0.8261	89943	74167	0.0099	0.00608985743472028	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_7_CD4_Naive	na	5509319	na	4604494	0.8358	109203	90752	0.0064	0.002516671831541439	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_6_CD8_Naive	na	8552575	na	6710797	0.7847	48141	38981	0.0618	0.0366849117	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_6_CD4_Naive	na	6193661	na	5074738	0.8193	91479	75047	0.0109	0.007601969095688327	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_5_CD8_Naive	na	5742088	na	4715269	0.8212	84827	69302	0.0104	0.005965725642178061	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_5_CD4_Naive	na	6950067	na	5802810	0.8349	97911	80782	0.0051	0.001423792939159279	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, HLA MHC Class I, Naive T cells, PBMC		
+Healthy_Subject_17_CD8_Naive	na	6326428	na	5145393	0.8133	313603	255696	0.0091	0.006980808132966951	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_17_CD4_Naive	na	6106467	na	5106817	0.8363	307744	255899	0.0057	0.0024265605	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_16_CD8_Naive	na	79745	na	65801	0.8251	1182	971	0.0592	0.0311849359	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_16_CD4_Naive	na	269581	na	226733	0.8411	49479	42638	0.0108	0.00205969139218248	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_15_CD8_Naive	na	2241116	na	1815217	0.8100	122799	100468	0.0267	0.0144230686	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_15_CD4_Naive	na	2718090	na	2285557	0.8409	298267	252206	0.0072	0.003111276603718945	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_14_CD8_Naive	na	7249301	na	6226088	0.8589	183583	154239	0.0961	0.0703681037	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_14_CD4_Naive	na	7033383	na	6021575	0.8561	220838	188018	0.0153	0.0108021572	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_13_CD8_Naive	na	3796832	na	3173947	0.8359	160253	133503	0.0412	0.0361439548	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_13_CD4_Naive	na	8097281	na	6809003	0.8409	178114	148722	0.0049	0.001095608252438057	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_12_CD8_Naive	na	6693996	na	5304898	0.7925	266758	221673	0.0506	0.0500213206	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_12_CD4_Naive	na	2546742	na	2108302	0.8278	155958	131593	0.0076	0.003519419882077719	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_11_CD4_Naive	na	3967348	na	3316366	0.8359	235217	201358	0.0099	0.001388568108437875	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_11_CD8_Naive	na	4196300	na	3462506	0.8251	233943	196062	0.0118	0.0027269267	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_10_CD8_Naive	na	3061438	na	2565233	0.8379	205460	173414	0.0105	0.002300375887111698	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_10_CD4_Naive	na	3389290	na	2841355	0.8383	286182	243579	0.0071	9.087213587221228E-4	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
+Healthy_Subject_9_CD8_Naive	na	6242518	na	5138621	0.8232	40743	34293	0.1094	0.0923847109	TCRB	CD45RA+, CD62L+, CD8+, CD8+ cells, Control, Naive T cells, PBMC		
+Healthy_Subject_9_CD4_Naive	na	8093380	na	7071833	0.8738	356044	313534	0.0082	0.001237303045339966	TCRB	CD4+, CD4+ cells, CD45RA+, CD62L+, Control, Naive T cells, PBMC		
