@@ -54,7 +54,7 @@ For all plots please see https://docs.google.com/presentation/d/12NM-7CLGjYuhLo4
 5. Decrease in Kidera factors responsible for size and hydrophilicity. Increase in Kideras responsible for occurrence in alpha region
 6. Negative selection toward “bad” aa
 7. Clusters enriched in OLGA are short and R-reach
-8. Clusters enriched in KECK are of normal size and G reach
+8. Clusters enriched in KECK are of normal size and G-reach
 9. Clusters with glycosylation sites which survive after selection have J1-6 gene which is rare
 
 ## Methods
