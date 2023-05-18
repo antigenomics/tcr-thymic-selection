@@ -36,9 +36,31 @@ We calculared key chemo-physical proeprties (length, charge, hydrophobicity) for
 
 4. Kidera factors analysis.
 Kidera factors - the key fetures of peptides, first introduced by Kidera et al[]. We analyzed each of 10 kidera factors genepairwise. Kideras with maximum FC were represented in Volcano plot above.
-
+The most selected Kideras:  KF2, KF6 - Size; KF4 - Hydrophilicity; KF8 - Occurrence in alpha region
 ![newplot (28)](https://github.com/antigenomics/tcr-thymic-selection/assets/75636485/f1a9337a-0a24-48c7-9900-6354080907e6)
 
 5. Genes clusters.  
 We analysed gene clusters enriched in OLGA and rare in KECK and vise versa. Volcano plots for this clusters are presented below.
-![image](https://github.com/antigenomics/tcr-thymic-selection/assets/75636485/2b8e9a05-b9ed-48e8-be27-63f67f7c2dc5)
+![image](https://github.com/antigenomics/tcr-thymic-selection/assets/75636485/2b8e9a05-b9ed-48e8-be27-63f67f7c2dc5)  
+
+For all plots please see https://docs.google.com/presentation/d/12NM-7CLGjYuhLo4dROhbbfClH7IH4oHbi5svjMNscro/edit?usp=sharing
+
+## Conclusions
+
+1. C - strong negative selection
+2. Nx[S,T] - glycosylation sites - strong negative selection
+3. Other post-translational modification do not affect selection
+4. Decrease in charge and increase in hydrophobicity. Extreme length are also negatively selected
+5. Decrease in Kidera factors responsible for size and hydrophilicity. Increase in Kideras responsible for occurrence in alpha region
+6. Negative selection toward “bad” aa
+7. Clusters enriched in OLGA are short and R-reach
+8. Clusters enriched in KECK are of normal size and G reach
+9. Clusters with glycosylation sites which survive after selection have J1-6 gene which is rare
+
+## Methods
+1. Generation of TCRs beta chain were carried out by OLGA software (1.2.4)
+`olga-generate_sequences --humanTRB -n 10000000`
+2. All statistics and visualisation except clusters enrichment were done in Python 3.7
+3. Kidera factors and other phys-chemical properties were calculated in Peptides (0.3.2)
+4. Clusters enrichment comparison were carried out in VDJtools (1.2.1)  
+`vdjtools --CalcDegreeStats` with default parameters
